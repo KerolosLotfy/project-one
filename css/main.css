@@ -196,6 +196,7 @@ a {
   padding: 10px;
   overflow: hidden;
   border-radius: 10px;
+  transition: all 1s;
 }
 
 .about-container .info {
@@ -573,7 +574,7 @@ sub {
   position: absolute;
   left: 10px;
   top: 10px;
-  transition: all 0s .5s;
+  transition: all 0s 0.5s;
 }
 .upLayer .social .fa-facebook {
   transition: all 0.2s 0s;
