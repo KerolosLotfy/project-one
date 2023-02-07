@@ -409,7 +409,7 @@ a {
 #statistics {
   background-image: url("../images/eee.jpeg");
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size: cover;
   height: 50vh;
   position: relative;
   background-attachment: fixed;
@@ -424,9 +424,8 @@ a {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   padding: 10px;
-  
 }
 .statistic {
   float: left;
@@ -443,7 +442,7 @@ a {
 #testimonial {
   background-image: url("../images/eee.jpeg");
   background-repeat: no-repeat;
-  background-size:cover;
+  background-size: cover;
   height: 50vh;
   position: relative;
   background-attachment: fixed;
@@ -458,9 +457,8 @@ a {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%,-50%);
+  transform: translate(-50%, -50%);
   padding: 10px;
-  
 }
 .testimonial-content {
   float: left;
@@ -468,15 +466,14 @@ a {
   margin: 0 60px;
   width: 400px;
 }
-.testimonial-content .top {
-}
-.testimonial-content img  {
+
+.testimonial-content img {
   width: 50px;
   height: 50px;
   border-radius: 50%;
   float: left;
 }
-.testimonial-content .txt  {
+.testimonial-content .txt {
   width: max-content;
   margin-left: 60px;
   margin-bottom: 30px;
